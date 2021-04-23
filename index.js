@@ -23,7 +23,7 @@ const vcard = 'BEGIN:081225212941\n' // metadata of the contact card
             + 'FN:Rian\n' // Nama kamu
             + 'ORG:AYAKA;\n' // Nama bot
             + 'TEL;type=CELL;type=VOICE;waid=62895392684520:+62 821-7612-8496 \n' //Nomor whatsapp kamu
-            + 'END:VCARD'
+            + 'END:081225212941'
 const
 {
 WAConnection,
