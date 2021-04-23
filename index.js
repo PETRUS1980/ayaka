@@ -18,10 +18,9 @@ const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'AYAKA BOT'; 
 const instagram = 'mfas_11_11_06- kaelMk_'; 
 const aktif = 'Kapan bot aktif';
-const vcard = 'BEGIN:081225212941\n' // metadata of the contact card
+const vcard = 'BEGIN:081225212941\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Rian\n' // Nama kamu
-            + 'ORG:AYAKA;\n' // Nama bot
+            + 'FN:Rian\n'
             + 'TEL;type=CELL;type=VOICE;waid=6281225212941:+62 821-7612-8496 \n'
             + 'END:081225212941'
 const
